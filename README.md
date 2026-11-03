@@ -6,3 +6,7 @@ página web sbs lanzada 23/07/2026
 - Dominio en Porkbun
 - Integración con Formspree
 - Integración con Cloudflare Web Analytics
+
+
+# To-do list
+- Migrar dominio de Porkbun a Cloudflare
